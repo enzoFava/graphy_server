@@ -1,4 +1,4 @@
-FROM node:22.6.0-slim
+FROM node:22.6.0-slim › zlib/zlib1g@1:1.2.13.dfsg-1
 COPY graphserver.js .
 COPY package.json .
 COPY UScities.json .
